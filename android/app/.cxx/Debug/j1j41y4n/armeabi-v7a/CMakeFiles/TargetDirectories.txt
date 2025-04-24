@@ -1,0 +1,2 @@
+D:/GitHub/pharmacy_app/android/app/.cxx/Debug/j1j41y4n/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/GitHub/pharmacy_app/android/app/.cxx/Debug/j1j41y4n/armeabi-v7a/CMakeFiles/rebuild_cache.dir
